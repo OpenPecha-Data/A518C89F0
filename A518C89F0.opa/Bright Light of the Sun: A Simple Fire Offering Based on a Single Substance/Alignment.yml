@@ -1,0 +1,19 @@
+segment_sources:
+  PF08822E0:
+    type: origin_type
+    relation: translation
+    language: en
+  P89764226:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4bd44213f43d4115bc05ba59c70da1b0:
+    PF08822E0: 1eab4f33b172497189feab023f84acba
+    P89764226: 56270cb7bcb947ec92c00ab3ee12d64b
+  6653129543df400cbf7a188d4198d062:
+    PF08822E0: fb49c3dd09434640b1d0051ab4548f64
+    P89764226: a74c1234b1514390bbc5ea4343cceb27
+  588693eda7b7499e84e876995673ea40:
+    PF08822E0: 61c1ebaff1774e58a73448a9f2b38233
+    P89764226: 3139a4212f444dcaa5a6141024f2d94f
